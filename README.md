@@ -1,4 +1,4 @@
-# Apple Vision Pro application for Meditation and relaxation
+# Apple Vision Pro application for meditation and relaxation
 
 Psithurism is an immersive application that visualizes a growing and shrinking tree model based on real-time heart rate data from an Apple Watch. It integrates with Firebase to fetch the latest heart rate data and adjusts the tree's growth accordingly. The application also includes an ambient audio feature to enhance the user experience, and a breathing guide which displays herat rate conditions.
 
